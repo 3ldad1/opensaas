@@ -274,6 +274,6 @@ const FormPage: React.FC = () => {
   );
 };
 
-console.log(FormPage)
+console.log(FormPage, FormPage)
 
 export default FormPage;
